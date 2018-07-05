@@ -32,6 +32,8 @@ gem 'bootstrap', '~> 4.1.1'
 gem 'jquery-rails'
 # fontawesome gem
 gem "font-awesome-rails"
+#simple_form
+gem 'simple_form'
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
 
